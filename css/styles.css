@@ -8,7 +8,6 @@ a {
 text-decoration: none;
 }
 .visually-hidden {
-position: absolute;
 white-space: nowrap;
 clip-path: inset(100%);
 clip: rect(0 0 0 0);
@@ -160,6 +159,7 @@ color: #434455;
 /* PORTFOLIO */
 
 .portfolio {
+background-color: #FFFFFF;
 }
 
 .portfolio-title {
@@ -173,7 +173,6 @@ text-transform: capitalize;
 }
 
 .portfolio-list {
-background-color: #FFFFFF;
 }
 
 .portfolio-item {}
