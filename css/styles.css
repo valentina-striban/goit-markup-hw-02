@@ -168,11 +168,10 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 text-transform: capitalize;
+background-color: #FFFFFF
 }
 
-.portfolio-list {
-background-color: #FFFFFF;
-}
+.portfolio-list {}
 
 .portfolio-item {}
 
