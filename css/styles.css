@@ -164,7 +164,9 @@ color: #434455;
 
 /* PORTFOLIO */
 
-.portfolio {}
+.portfolio {
+background-color: #FFFFFF;
+}
 
 .portfolio-title {
 font-weight: 700;
@@ -176,9 +178,7 @@ color: #2e2f42;
 text-transform: capitalize;
 }
 
-.portfolio-list {
-background-color: #FFFFFF;
-}
+.portfolio-list {}
 
 .portfolio-item {}
 
@@ -202,8 +202,6 @@ color: #434455;
 
 .footer {
 background: #2e2f42;
-width: 1440px;
-height: 312px;
 }
 
 .footer-text {
