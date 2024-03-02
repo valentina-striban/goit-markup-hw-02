@@ -59,12 +59,22 @@ color: #434455;
 color: #404bbf;
 }
 
+.visually-hidden {
+position: absolute;
+width: 1px;
+height: 1px;
+margin: -1px;
+border: 0;
+padding: 0;
+white-space: nowrap;
+clip-path: inset(100%);
+clip: rect(0 0 0 0);
+overflow: hidden;
+}
 .title {}
 
 .hero {
 background: #2e2f42;
-width: 1440px;
-height: 600px;
 }
 
 .hero-title {
@@ -87,19 +97,6 @@ background-color: #4d5ae5;;
 .hero-buy-btn:hover,
 .hero-buy-btn:focus {
 background-color: #404bbf;
-}
-
-.visually-hidden {
-position: absolute;
-width: 1px;
-height: 1px;
-margin: -1px;
-border: 0;
-padding: 0;
-white-space: nowrap;
-clip-path: inset(100%);
-clip: rect(0 0 0 0);
-overflow: hidden;
 }
 
 /* ADVANTAGES */
