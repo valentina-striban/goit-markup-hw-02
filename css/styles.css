@@ -135,7 +135,9 @@ text-transform: capitalize;
 
 .team-list {}
 
-.team-item {}
+.team-item {
+background-color: #FFFFFF
+}
 
 .team-img {}
 
@@ -168,12 +170,13 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 text-transform: capitalize;
-background-color: #FFFFFF
 }
 
 .portfolio-list {}
 
-.portfolio-item {}
+.portfolio-item {
+background-color: #FFFFFF
+}
 
 .portfolio-img {}
 
