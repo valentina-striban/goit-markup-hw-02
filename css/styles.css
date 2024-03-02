@@ -170,11 +170,11 @@ color: #2e2f42;
 text-transform: capitalize;
 }
 
-.portfolio-list {}
-
-.portfolio-item {
+.portfolio-list {
 background-color: #FFFFFF;
 }
+
+.portfolio-item {}
 
 .portfolio-img {}
 
