@@ -82,9 +82,12 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
+background-color: #4d5ae5;;
 }
 .hero-buy-btn:hover,
-.hero-buy-btn:focus {}
+.hero-buy-btn:focus {
+background-color: #404bbf;
+}
 
 .visually-hidden {
 position: absolute;
@@ -136,6 +139,7 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize;
 }
 
 .team-list {}
@@ -172,9 +176,12 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize;
 }
 
-.portfolio-list {}
+.portfolio-list {
+background-color: #FFFFFF;
+}
 
 .portfolio-item {}
 
